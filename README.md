@@ -1,4 +1,4 @@
-# Progetto 2: Detection Engineering & EDR (Wazuh + YARA Integration)
+# Detection Engineering & EDR (Wazuh + YARA Integration)
 In questo  progetto ho implementato una soluzione di Endpoint Detection and Response (EDR) integrando il motore di scansione open-source YARA con il SIEM Wazuh su un endpoint Debian 13. L'obiettivo è il monitoraggio predittivo e reattivo di directory sensibili tramite l'analisi automatica dei file basata su firme (pattern matching).
 ## Architettura e Flusso Logico dei Dati
 Il sistema di rilevamento segue una catena di montaggio automatizzata suddivisa in 5 macro-fasi:
