@@ -1,0 +1,1 @@
+# Wazuh-EDR-Yara-Integration
